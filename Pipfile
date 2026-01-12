@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 groq = "*"
+ffmpeg = "*"
+pyaudio = "*"
+speechrecognition = "*"
+pydub = "*"
 
 [dev-packages]
 
