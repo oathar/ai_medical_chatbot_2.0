@@ -11,6 +11,8 @@ A conversational AI medical assistant that combines vision (image analysis), voi
 - **Web Interface**: User-friendly Gradio-based interface accessible via browser
 - **Real-time Processing**: Instant transcription and analysis with streaming responses
 
+<img width="1790" height="941" alt="image" src="https://github.com/user-attachments/assets/12f5f384-e171-4fba-9893-6e70a49fe97c" />
+
 ## 📋 Prerequisites
 
 - **Python 3.13+** (project uses Python 3.13)
